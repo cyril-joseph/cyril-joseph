@@ -3,7 +3,8 @@
 ##### cyrilconnect@gmail.com
 ##### 07444831445
 ###### About 
-I'm also a web developer student @HyperionDev learning to build dynamic, database-driven sites.
+I'm a web developer student @HyperionDev learning to build dynamic, database-driven sites.
+###### You can reach me here https://www.linkedin.com/in/cyril-joseph-3b5994108/
 <!--
 **cyril-joseph/cyril-joseph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
