@@ -2,6 +2,8 @@
 # Cyril Joseph
 ##### cyrilconnect@gmail.com
 ##### 07444831445
+###### About 
+I'm also a web developer student @HyperionDev learning to build dynamic, database-driven sites.
 <!--
 **cyril-joseph/cyril-joseph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
